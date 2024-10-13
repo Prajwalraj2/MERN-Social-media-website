@@ -1,2 +1,2 @@
 # Quora-Clone
-This repository contains clone of Quora website made using MERN stack
+This repository contains clone of Social Media Website website made using MERN stack
